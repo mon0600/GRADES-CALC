@@ -1,0 +1,10 @@
+#include  <stdio.h>
+
+int main(){
+  #define MAX_ASSIIGN 50
+  double  ppdl = 0, drop = 0;
+  char stat_info;
+  
+
+  return 0;
+}
